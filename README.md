@@ -2,11 +2,7 @@
 
 ### Full-stack developer with 3+ years of experience developing responsive web applications, APIs, and business solutions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-reymark&label=Profile views&color=0e75b6&style=flat" alt="dev-reymark" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-reymark" alt="dev-reymark" /></a> </p>
-
-- 🔭 I'm currently working on **I'm currently working on JobLink Philippines, a startup connecting job seekers and employers through a simple platform using Next.js, React, TypeScript, Firebase, and PostgreSQL.**
+- 🔭 I'm currently working on **JobLink Philippines, a startup connecting job seekers and employers through a simple platform using Next.js, React, TypeScript, Firebase, and PostgreSQL.**
 
 - 📫 How to reach me **dev.reymark@gmail.com**
 
